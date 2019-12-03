@@ -7,6 +7,5 @@ namespace d7p4n4Namespace.Final.Class
 {
 	public class Tabla : TablaAlgebra
 	{
-
 	}
 }

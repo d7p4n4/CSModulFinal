@@ -11,9 +11,10 @@ namespace d7p4n4Namespace.PreProcessed.Class
 	            [GUID("")]
 	public class TablaPreProcessed : RAMetaObjektum
 
-	{
-		
-		public TablaPreProcessed()
+    {
+        public List<TablaOszlop> TablaOszlopLista { get; set; }
+
+        public TablaPreProcessed()
 		{
 			GUID = "";
 		}
